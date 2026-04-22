@@ -88,22 +88,31 @@ Password: demo123
 📸 How It Works
 
 *User logs into the system
+
 *Uploads an image
+
 *Selects caption style & detail level
+
 *Image is processed and sent to AI model
+
 *AI generates caption and displays result
 
 🎯 Use Cases
 
 *Social Media Content Creation
+
 *Image Description for Accessibility
+
 *Content Writing Assistance
+
 *Photography Analysis
 
 ⚠️ Note
 
 *Requires a valid OpenAI API key
+
 *Max file size: 5MB
+
 *Supported formats: PNG, JPG, JPEG, WEBP
 
 🔮 Future Enhancements
