@@ -11,13 +11,14 @@ An AI-powered web application that generates captions for images using advanced 
 🤖 AI-Based Caption Generation
 
 🎭 Multiple Caption Styles:
-Descriptive
 
-Creative
+*Descriptive
 
-Technical
+*Creative
 
-Social Media
+*Technical
+
+*Social Media
 
 ⚡ Real-time Processing
 
@@ -26,15 +27,15 @@ Social Media
 
 🛠️ Tech Stack
 
-Backend: Flask (Python)
+*Backend: Flask (Python)
 
-Frontend: HTML, CSS (Templates)
+*Frontend: HTML, CSS (Templates)
 
-AI Model: OpenAI GPT-4 Vision API
+*AI Model: OpenAI GPT-4 Vision API
 
-Authentication: Session-based login system
+*Authentication: Session-based login system
 
-Image Processing: Base64 Encoding
+*Image Processing: Base64 Encoding
 
 
 📂 Project Structure
@@ -56,6 +57,7 @@ Image Processing: Base64 Encoding
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ai-image-caption-generator.git
 cd ai-image-caption-generator
@@ -84,22 +86,25 @@ Email: demo@example.com
 Password: demo123
 
 📸 How It Works
-User logs into the system
-Uploads an image
-Selects caption style & detail level
-Image is processed and sent to AI model
-AI generates caption and displays result
+
+*User logs into the system
+*Uploads an image
+*Selects caption style & detail level
+*Image is processed and sent to AI model
+*AI generates caption and displays result
 
 🎯 Use Cases
-Social Media Content Creation
-Image Description for Accessibility
-Content Writing Assistance
-Photography Analysis
+
+*Social Media Content Creation
+*Image Description for Accessibility
+*Content Writing Assistance
+*Photography Analysis
 
 ⚠️ Note
-Requires a valid OpenAI API key
-Max file size: 5MB
-Supported formats: PNG, JPG, JPEG, WEBP
+
+*Requires a valid OpenAI API key
+*Max file size: 5MB
+*Supported formats: PNG, JPG, JPEG, WEBP
 
 🔮 Future Enhancements
 
