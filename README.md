@@ -43,7 +43,9 @@ Image Processing: Base64 Encoding
 ├── templates/
 
 │   ├── login.html
+
 │   ├── register.html
+
 │   ├── dashboard.html
 
 ├── uploads/
@@ -78,6 +80,7 @@ python app.py
 
 🔑 Demo Credentials
 Email: demo@example.com
+
 Password: demo123
 
 📸 How It Works
@@ -99,8 +102,13 @@ Max file size: 5MB
 Supported formats: PNG, JPG, JPEG, WEBP
 
 🔮 Future Enhancements
+
 🌐 Deploy to cloud (AWS / Render / Vercel)
+
 📱 Mobile-friendly UI
+
 🗂️ Caption history storage
+
 🎙️ Voice-based caption generation
+
 🌍 Multi-language captions
