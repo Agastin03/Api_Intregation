@@ -1,5 +1,5 @@
-📸 Snap2Caption – Turning Images into Words with AI
-
+📸 **Snap2Caption – Turning Images into Words with AI
+**
 An AI-powered web application that generates captions for images using advanced vision models. Built with a Flask backend, this project allows users to upload images and receive descriptive, creative, technical, or social-media-ready captions instantly.
 
 
